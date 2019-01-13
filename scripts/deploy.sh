@@ -7,6 +7,7 @@
 
 # Helpers
 # -------
+echo "start!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 
 exitWithMessageOnError () {
   if [ ! $? -eq 0 ]; then
